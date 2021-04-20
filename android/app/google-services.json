@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533328063669",
+    "project_id": "hive-5a938",
+    "storage_bucket": "hive-5a938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533328063669:android:afea5ff31c08e91d80e2fc",
+        "android_client_info": {
+          "package_name": "com.anujmore.hive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533328063669-7qln60g7j4kimmhl4nr2193tqmg959m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anujmore.hive",
+            "certificate_hash": "208306576888d5be7002f806d91395cea67fe84e"
+          }
+        },
+        {
+          "client_id": "533328063669-lqj4godqgqev1so4la78a4k8bnvlrgrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0XGxVcsCuCSZs94sD00dbymXRh3a2V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533328063669-lqj4godqgqev1so4la78a4k8bnvlrgrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
