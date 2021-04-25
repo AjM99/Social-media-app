@@ -75,7 +75,7 @@ class _HomepageState extends State<HomePage> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Buzzclip ',
+              'Buzzclip   ',
               style: TextStyle(
                 fontFamily: 'Lobster',
                 fontSize: 90,
