@@ -77,7 +77,7 @@ class _HomepageState extends State<HomePage> {
             Text(
               'Buzzclip   ',
               style: TextStyle(
-                fontFamily: 'Lobster',
+                fontFamily: ' Lobster',
                 fontSize: 90,
                 color: Colors.blue,
               ),
